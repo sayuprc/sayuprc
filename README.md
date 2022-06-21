@@ -24,4 +24,4 @@
 
 ---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sayuprc&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sayuprc&theme=tokyonight&column=7)](https://github.com/ryo-ma/github-profile-trophy)
