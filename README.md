@@ -25,3 +25,15 @@
 ---
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sayuprc&theme=tokyonight&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## 自作ライブラリ
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sayuprc&repo=http-client&theme=tokyonight)](https://github.com/sayuprc/http-client)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sayuprc&repo=validation&theme=tokyonight)](https://github.com/sayuprc/validation)
+
+## ツール
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sayuprc&repo=clean-architecture-template-generator&theme=tokyonight)](https://github.com/sayuprc/clean-architecture-template-generator)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sayuprc&repo=youtube-filter&theme=tokyonight)](https://github.com/sayuprc/youtube-filter)
