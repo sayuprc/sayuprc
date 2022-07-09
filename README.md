@@ -32,6 +32,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sayuprc&repo=http-client&theme=tokyonight)](https://github.com/sayuprc/http-client)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sayuprc&repo=validation&theme=tokyonight)](https://github.com/sayuprc/validation)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sayuprc&repo=mailer&theme=tokyonight)](https://github.com/sayuprc/mailer)
 
 ## ツール
 
