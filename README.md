@@ -30,7 +30,7 @@
 
 ## 自作ライブラリ
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sayuprc&repo=http-client&theme=tokyonight)](https://github.com/sayuprc/http-client)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sayuprc&repo=http-test-case&theme=tokyonight)](https://github.com/sayuprc/http-test-case)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sayuprc&repo=validation&theme=tokyonight)](https://github.com/sayuprc/validation)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sayuprc&repo=mailer&theme=tokyonight)](https://github.com/sayuprc/mailer)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sayuprc&repo=php-utility&theme=tokyonight)](https://github.com/sayuprc/php-utility)
