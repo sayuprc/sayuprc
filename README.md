@@ -33,5 +33,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sayuprc&repo=http-test-case&theme=tokyonight)](https://github.com/sayuprc/http-test-case)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sayuprc&repo=date-type&theme=tokyonight)](https://github.com/sayuprc/date-type)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sayuprc&repo=result-type&theme=tokyonight)](https://github.com/sayuprc/result-type)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sayuprc&repo=arch-scaffy&theme=tokyonight)](https://github.com/sayuprc/arch-scaffy)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sayuprc&repo=clean-architecture-template-generator&theme=tokyonight)](https://github.com/sayuprc/clean-architecture-template-generator)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sayuprc&repo=youtube-filter&theme=tokyonight)](https://github.com/sayuprc/youtube-filter)
