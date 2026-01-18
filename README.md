@@ -24,15 +24,15 @@
 
 ---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sayuprc&theme=tokyonight&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy-kannan.vercel.app/?username=sayuprc&theme=tokyonight&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
 ## Libraries/Tools
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sayuprc&repo=http-test-case&theme=tokyonight)](https://github.com/sayuprc/http-test-case)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sayuprc&repo=date-type&theme=tokyonight)](https://github.com/sayuprc/date-type)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sayuprc&repo=result-type&theme=tokyonight)](https://github.com/sayuprc/result-type)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sayuprc&repo=arch-scaffy&theme=tokyonight)](https://github.com/sayuprc/arch-scaffy)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sayuprc&repo=clean-architecture-template-generator&theme=tokyonight)](https://github.com/sayuprc/clean-architecture-template-generator)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sayuprc&repo=youtube-filter&theme=tokyonight)](https://github.com/sayuprc/youtube-filter)
+[![Readme Card](https://github-readme-stats-seven-zeta-64.vercel.app/api/pin/?username=sayuprc&repo=http-test-case&theme=tokyonight)](https://github.com/sayuprc/http-test-case)
+[![Readme Card](https://github-readme-stats-seven-zeta-64.vercel.app/api/pin/?username=sayuprc&repo=date-type&theme=tokyonight)](https://github.com/sayuprc/date-type)
+[![Readme Card](https://github-readme-stats-seven-zeta-64.vercel.app/api/pin/?username=sayuprc&repo=result-type&theme=tokyonight)](https://github.com/sayuprc/result-type)
+[![Readme Card](https://github-readme-stats-seven-zeta-64.vercel.app/api/pin/?username=sayuprc&repo=arch-scaffy&theme=tokyonight)](https://github.com/sayuprc/arch-scaffy)
+[![Readme Card](https://github-readme-stats-seven-zeta-64.vercel.app/api/pin/?username=sayuprc&repo=clean-architecture-template-generator&theme=tokyonight)](https://github.com/sayuprc/clean-architecture-template-generator)
+[![Readme Card](https://github-readme-stats-seven-zeta-64.vercel.app/api/pin/?username=sayuprc&repo=youtube-filter&theme=tokyonight)](https://github.com/sayuprc/youtube-filter)
